@@ -1,0 +1,76 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    color: lightgoldenrodyellow;
+    font-size: 275%;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+
+    /* Center */
+    position: fixed;
+    top: 0%;
+    left: 35%;
+}
+
+/* Weather Titles */
+.desc {
+    font-family: 'Courier New', Courier, monospace;
+    color: lightgoldenrodyellow;
+    font-size: 150%;
+
+    position: fixed;
+    left: 30%;
+    top: 10%;
+}
+
+.properties{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    color: midnightblue;
+
+    position: fixed;
+    left: 28%;
+    top: 30%;
+}
+
+.location{
+    color: lightgoldenrodyellow;
+}
+
+/* Buttons */
+.input{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightgoldenrodyellow;
+    font-size: 175%;
+
+    /* Location */
+    position: fixed;
+    left: 40%;
+    top: 15%;
+}
+
+.cityinput{
+    outline: none;
+    border-style: double;
+    border-color: burlywood;
+    font-family: 'Courier New',
+    Courier,
+    monospace;
+    margin-bottom: -20px;
+    font-size: 75%;
+
+}
+
+.sep{
+    margin-right: 30%;
+    display: inline-block;
+}
+
+.submitBtn{
+    outline: none;
+    background-color: rgb(255, 246, 204);
+    color: midnightblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    display:inline-block;
+}
+
